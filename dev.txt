@@ -1,1 +1,2 @@
 this file is add for branch test!
+Creating a new branch is quickly and simple!
